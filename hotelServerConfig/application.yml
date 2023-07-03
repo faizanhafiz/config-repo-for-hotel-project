@@ -1,4 +1,6 @@
-
+spring:
+  application:
+    name: Test-Hotel
 eureka:
   client:
     fetch-registry: true
